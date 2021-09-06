@@ -1,0 +1,12 @@
+.notification {
+  font-family: 'Arial', serif;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 900px;
+  color: rgb(252, 14, 125);
+  background-color: rgb(113, 43, 226, 0.2);
+  border-radius: 5px;
+  margin: 20px auto;
+  padding: 15px;
+}
